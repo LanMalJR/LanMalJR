@@ -86,7 +86,7 @@ My work combines code, user centred design and data, with a focus on clear struc
 
 ### 🚜 Tractor Driving VR Simulator (Masters research artifact)
 
-A VR based tractor driving simulator built in Unity for agricultural train
+Developing a immersive VR tractor simulator using Unity, designed to facilitate technical training for agricultural and engineering students
 
 
 <!--
