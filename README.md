@@ -30,7 +30,7 @@
 
 ## 🧍 Who am I?
 
-I am Langa, a BCom Computer Information Systems (Honours) graduate with a strong interest in software engineering, VR simulation and business analysis.  
+I am Langa, a B. Computer Information Systems (Honours) graduate with a strong interest in software engineering, VR simulation and business analysis.  
 I enjoy building interactive systems that solve real problems, from tractor driving simulators for agricultural training to AI assisted tools for personal finance.  
 My work combines code, user centred design and data, with a focus on clear structure and maintainable solutions.
 
@@ -38,10 +38,10 @@ My work combines code, user centred design and data, with a focus on clear struc
 
 ## 🎓 Educational background
 
-- **BCom (Honours) Computer Information Systems**  
+- **B. (Honours) Computer Information Systems**  
   Focus areas included software engineering, human computer interaction, IT project management, data analysis and information systems in organisations.
 
-- **Undergraduate Computer Information Systems**  
+- **Undergraduate B. Computer Information Systems**  
   Covered databases, programming, systems analysis and design, networks, business processes and decision support.
 
 ---
