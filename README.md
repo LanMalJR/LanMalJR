@@ -11,18 +11,22 @@
 <h1 align="center">Hi, I am Langa 👋</h1>
 
 <p align="center">
+  <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Coding animation" width="500" />
+</p>
+
+<p align="center">
   Software Developer · XR / VR Enthusiast · Aspiring Business Analyst  
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/langa-lmj/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff8a3d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffb86c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://lanmaljr.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-ff8a3d?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-ffb86c?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="mailto:lanmaljrlm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff8a3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ffb86c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -68,15 +72,15 @@ My work combines code, user centred design and data, with a focus on clear struc
 ## 🛠️ Languages and tools
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-ff8a3d?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-ff8a3d?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ff8a3d?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-ff8a3d?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAS-ff8a3d?style=for-the-badge&logo=sas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-ff8a3d?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-ff8a3d?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-ff8a3d?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-ff8a3d?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-ffb86c?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-ffb86c?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ffb86c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-ffb86c?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-ffb86c?style=for-the-badge&logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-ffb86c?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ffb86c?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-ffb86c?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-ffb86c?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -91,15 +95,4 @@ Developing a immersive VR tractor simulator using Unity, designed to facilitate 
 
 <!--
 **LanMalJR/LanMalJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
