@@ -83,8 +83,6 @@ My work combines code, user centred design and data, with a focus on clear struc
 
 ## 🚀 Featured projects
 
-> Replace the `🔗 Repo:` lines with real repository links once you are ready.  
-> You can also add or remove projects as your portfolio grows.
 
 ### 🚜 Tractor Driving VR Simulator (Masters research artifact)
 
