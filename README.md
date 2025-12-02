@@ -99,10 +99,11 @@ My work combines code, user centred design and data, with a focus on clear struc
 
 ### 🚜 Tractor Driving VR Simulator (Masters research artifact)
 
-Developing a immersive VR tractor simulator using Unity, designed to facilitate technical training for agricultural and engineering students
+- Developing a immersive VR tractor simulator using Unity, designed to facilitate technical training for agricultural and engineering students
 
 ### 📊 Mazzel Stovel Banking
-Mazzel is a digital stokvel and wealth platform where groups save together, earn rotation-based payouts, access vetted loan and investment opportunities, and build long-term family and generational wealth with clear rules, voting and simple risk scoring.
+
+- Mazzel is a digital stokvel and wealth platform where groups save together, earn rotation-based payouts, access vetted loan and investment opportunities, and build long-term family and generational wealth with clear rules, voting and simple risk scoring.
 
 
 <!--
