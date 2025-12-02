@@ -72,15 +72,24 @@ My work combines code, user centred design and data, with a focus on clear struc
 ## 🛠️ Languages and tools
 
 <p>
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/C%23-ffb86c?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-ffb86c?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-ffb86c?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-ffb86c?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Engines / Frameworks -->
+  <img src="https://img.shields.io/badge/Unity-ffb86c?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-ffb86c?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+  <!-- Data / Analytics -->
   <img src="https://img.shields.io/badge/SAS-ffb86c?style=for-the-badge&logo=sas&logoColor=white" />
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-ffb86c?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-ffb86c?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-ffb86c?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-ffb86c?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-ffb86c?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
