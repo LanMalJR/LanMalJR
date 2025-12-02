@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/langa-lmj/">
     <img src="https://img.shields.io/badge/LinkedIn-ffb86c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://lanmaljr.github.io">
+  <a href="https://lanmaljr.github.io/langa-lmj/">
     <img src="https://img.shields.io/badge/Portfolio-ffb86c?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="mailto:lanmaljrlm@gmail.com">
