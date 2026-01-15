@@ -61,7 +61,7 @@ My work combines code, user centred design and data, with a focus on clear struc
 
 **Technical skills**
 
-- **Programming:** C#, Python, SQL, basic JavaScript  
+- **Programming:** C#, Python, SQL, basic JavaScript, C++ 
 - **Engines and frameworks:** Unity, .NET, basic web stack  
 - **Data and analytics:** SAS, basic data analysis in Python and SQL  
 - **Developer tooling:** Git, GitHub, Visual Studio, VS Code, basic Docker usage  
