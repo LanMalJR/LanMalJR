@@ -44,8 +44,7 @@ I care about user-centred design, clean structure and code that's easy to mainta
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20SAS-0766D1?style=for-the-badge" alt="SAS" />
-  <img src="https://img.shields.io/badge/Agile-ffb86c?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+  <img height="40" src="https://www.sas.com/content/dam/SAS/images/logos/saslogos/sas-logo-sas-blue.png" alt="SAS" />
 </p>
 
 | What I do | How |
@@ -54,6 +53,7 @@ I care about user-centred design, clean structure and code that's easy to mainta
 | 🥽 **VR & 3D** | Unity, interactive simulation |
 | 📋 **Business analysis** | Requirements gathering, systems analysis, documentation |
 | 📊 **Data** | SQL, Python, SAS for analysis and reporting |
+| 🔐 **Cybersecurity** | Exploring security fundamentals and secure development |
 
 ---
 
