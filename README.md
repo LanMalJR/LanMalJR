@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Software Developer · XR / VR Dev
+  Software Developer · XR Enthusiast · Cybersecurity Explorer
 </p>
 
 <p align="center">
