@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Software Developer · XR / VR Enthusiast · Aspiring Business Analyst  
+  Software Developer · XR / VR Dev
 </p>
 
 <p align="center">
