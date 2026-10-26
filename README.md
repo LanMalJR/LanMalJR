@@ -40,20 +40,24 @@ I care about user-centred design, clean structure and code that's easy to mainta
 ## 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,py,cpp,js,postgres,unity,dotnet,git,github,visualstudio,vscode,docker&perline=6" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,py,cpp,js,postgres,unity,blender,dotnet,git,github,visualstudio,vscode,docker&perline=7" alt="Tech stack" />
 </p>
 
 <p align="center">
   <img height="40" src="https://www.sas.com/content/dam/SAS/images/logos/saslogos/sas-logo-sas-blue.png" alt="SAS" />
 </p>
 
+<div align="center">
+
 | What I do | How |
 |---|---|
 | 🧑‍💻 **Software engineering** | C#, .NET, Python, C++, basic web stack |
-| 🥽 **VR & 3D** | Unity, interactive simulation |
+| 🥽 **VR & 3D** | Unity, Blender, interactive simulation |
 | 📋 **Business analysis** | Requirements gathering, systems analysis, documentation |
 | 📊 **Data** | SQL, Python, SAS for analysis and reporting |
 | 🔐 **Cybersecurity** | Exploring security fundamentals and secure development |
+
+</div>
 
 ---
 
